@@ -1,0 +1,10 @@
+<!--
+  @description       : 
+  @author            : Mehmet AK
+  @group             : 
+  @last modified on  : 07-05-2022
+  @last modified by  : Mehmet AK
+-->
+<aura:component controller="SimpleSimpleCalcServerController">
+    <h1> Aura Component Simple Controller</h1>
+</aura:component>
