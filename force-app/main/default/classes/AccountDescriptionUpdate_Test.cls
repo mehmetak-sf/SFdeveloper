@@ -1,3 +1,10 @@
+/**
+ * @description       : 
+ * @author            : Mehmet AK
+ * @group             : 
+ * @last modified on  : 12-11-2022
+ * @last modified by  : Mehmet AK
+**/
 @isTest
 public class AccountDescriptionUpdate_Test {
     
@@ -8,7 +15,7 @@ public class AccountDescriptionUpdate_Test {
         Account accNew = new Account(Name = 'Test');
         insert accNew;
         
-    }
+    } 
  
     @isTest
     public static void updateDescription_Test1(){
