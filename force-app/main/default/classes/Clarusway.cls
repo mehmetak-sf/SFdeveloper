@@ -1,3 +1,10 @@
+/**
+ * @description       : 
+ * @author            : Mehmet AK
+ * @group             : 
+ * @last modified on  : 12-13-2022
+ * @last modified by  : Mehmet AK
+**/
 public class Clarusway { // Wrapper Class
 // class variables = properties-------------------------
 private Integer sf=0;
@@ -7,7 +14,7 @@ private List<String> sfStudent=new List<String>();
 private List<String> awsStudent=new List<String>();
 private String nickName;
 
-// constructor method-----------------------------------
+// constructor method----------------------------------
 public Clarusway(){
 nickName=null;
 
