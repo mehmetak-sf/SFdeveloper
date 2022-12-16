@@ -1,3 +1,10 @@
+/**
+ * @description       : 
+ * @author            : Mehmet AK
+ * @group             : 
+ * @last modified on  : 12-16-2022
+ * @last modified by  : Mehmet AK
+**/
 //Cars have make, color, year, isClean-->User inputs these values...
 //Has one method that returns Boolean(luxuryCar-->'Lexus', 'Tesla')-->display outcome
 public class CarsV3 {
@@ -17,7 +24,7 @@ public class CarsV3 {
         isClean=isCln;
     }
     
-    //Here we define an empty constructor with no User input...
+    //Here we define an empty constructor with no User input... let go bro
     Public CarsV3(){
         //NO CODE...
     }
