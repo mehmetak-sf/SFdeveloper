@@ -2,7 +2,7 @@
  * @description       : 
  * @author            : Mehmet AK
  * @group             : 
- * @last modified on  : 12-14-2022
+ * @last modified on  : 12-16-2022
  * @last modified by  : Mehmet AK
 **/
 
@@ -17,4 +17,5 @@ public class Calc {
     public Decimal div(Decimal x, Decimal y){Decimal result;	
     if(y==0){y=1;	result=x/y;}
 	  else {result=x/y;}	return result.setscale(2);    }
+      //
 }
