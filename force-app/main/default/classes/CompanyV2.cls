@@ -1,3 +1,10 @@
+/**
+ * @description       : 
+ * @author            : Mehmet AK
+ * @group             : 
+ * @last modified on  : 12-18-2022
+ * @last modified by  : Mehmet AK
+**/
 //***Company (String companyName, String CEO, Integer numOfEmployees, Long revenue) class stores 
 //***informations about the company and its customers.
 //***Cutomers have String clientName, String website, String email, Long phone
@@ -26,8 +33,8 @@ public class CompanyV2 {
         }
     }
     
-    //Here we define an inner class for Clients....
-    public class Client{ //This is an inner class...
+    // Here we define an inner class for Clients....
+    public class Client{ // This is an inner class...
         Public String clientName;
         Public String website;
         Public String email;
