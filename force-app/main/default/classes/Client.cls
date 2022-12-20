@@ -1,7 +1,9 @@
 public with sharing class Client {
     
-    public string name = 'David';
-    public Integer age = 30; 
+
+    
+    public string name = 'Max';
+    public Integer age = 36; 
 
 
     public void clientDataMethod(){

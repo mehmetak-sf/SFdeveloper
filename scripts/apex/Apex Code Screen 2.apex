@@ -5,6 +5,11 @@
 // You can also execute the entire file by running the command:
 //     SFDX: Execute Anonymous Apex with Editor Contents
 
-string tempvar = 'Enter_your_name_here';
-System.debug('Hello World!');
-System.debug('My name is ' + tempvar);
+
+Client client1 = new Client();
+client1.clientDataMethod();
+
+Client client2 = new Client();
+client2.name='Max';
+client2.age =36;
+client2.clientDataMethod();
