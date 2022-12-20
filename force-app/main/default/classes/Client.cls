@@ -10,3 +10,13 @@ public with sharing class Client {
 
     }
 }
+/*
+
+Client client1 = new Client();
+client1.clientDataMethod();
+
+Client client2 = new Client();
+client2.name='Max';
+client2.age =36;
+client2.clientDataMethod();
+*/
