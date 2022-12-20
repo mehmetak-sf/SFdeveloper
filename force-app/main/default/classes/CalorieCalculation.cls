@@ -2,7 +2,7 @@
  * @description       : 
  * @author            : Mehmet AK
  * @group             : 
- * @last modified on  : 12-18-2022
+ * @last modified on  : 12-17-2022
  * @last modified by  : Mehmet AK
 **/
 public with sharing class CalorieCalculation {
@@ -12,4 +12,3 @@ return totalCalorieCalculation;
 
     }
 }
-//

@@ -8,7 +8,7 @@ public class AccountDescriptionUpdate_Test {
         Account accNew = new Account(Name = 'Test');
         insert accNew;
         
-    } 
+    }
  
     @isTest
     public static void updateDescription_Test1(){

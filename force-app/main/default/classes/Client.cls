@@ -1,7 +1,5 @@
 public with sharing class Client {
     
-
-    
     public string name = 'Max';
     public Integer age = 36; 
 

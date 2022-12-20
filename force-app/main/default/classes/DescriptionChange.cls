@@ -8,7 +8,7 @@
 public class DescriptionChange {
     public static void accDesChange() {
         //Get All Accounts
-        List<Account>accs = [SELECT Description FROM Account];
+        List<Account>accs = [SELECT Description From Account];
         List<Account>newAccs = new List <Account>();
 
         //Change each account description
