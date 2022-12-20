@@ -5,3 +5,7 @@ public static void main(){
     
 }
 }
+
+/*
+Game.main();
+*/
