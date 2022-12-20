@@ -1,1 +1,1 @@
-system.debug('hello');
+MyFirstDeploy.MyFirstDeploy();
