@@ -5,3 +5,9 @@ public class CreatingAccount {
         return newAccount;
     }
 }
+ // 
+ /*
+ *******Apex Anonimous Codes *******
+ 
+system.debug(CreatingAccount.createAccount('Ege'));
+ */
