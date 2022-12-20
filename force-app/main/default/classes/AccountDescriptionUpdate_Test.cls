@@ -1,10 +1,3 @@
-/**
- * @description       : AccountDescriptionUpdate_Test
- * @author            : Mehmet AK
- * @group             : c3
- * @last modified on  : 12-11-2022
- * @last modified by  : Mehmet AK
-**/
 @isTest
 public class AccountDescriptionUpdate_Test {
     

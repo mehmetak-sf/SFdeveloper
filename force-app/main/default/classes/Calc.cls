@@ -1,11 +1,3 @@
-/**
- * @description       : 
- * @author            : Mehmet AK
- * @group             : 
- * @last modified on  : 12-19-2022
- * @last modified by  : Mehmet AK
-**/
-
 public class Calc {
     // APEX CLASS
     public Decimal sum(Decimal x, Decimal y){Decimal result=x+y;	return result;}
