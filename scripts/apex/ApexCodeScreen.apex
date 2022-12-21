@@ -13,3 +13,5 @@ Client client2 = new Client();
 client2.name='Max';
 client2.age =36;
 client2.clientDataMethod();
+
+Game.main();
