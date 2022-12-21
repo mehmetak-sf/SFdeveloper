@@ -15,3 +15,8 @@ client2.age =36;
 client2.clientDataMethod();
 
 Game.main();
+
+SumCalculation newSum = new SumCalculation();
+newSum.sumMethod(2,3);
+SumCalculation newSum = new SumCalculation();
+newSum.sumMethod(2.5,3.5);
