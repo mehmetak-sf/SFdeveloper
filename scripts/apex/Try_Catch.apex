@@ -13,8 +13,11 @@ insert myAccount;
 
 Try{
 Account myAccount  = new Account();
+myAccount.name = 'David\'s Class2';
 insert myAccount; // we wait error.
 
 }Catch ( Exception e){
 system.debug('Error occured: '+e.getMessage() );
+}Finally{
+    System.System.debug('This is finally block');
 }
