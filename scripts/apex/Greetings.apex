@@ -1,0 +1,16 @@
+Greetings testname = new Greetings();
+system.debug(testname.greeting());
+system.debug('**********************');
+List<String> nameList = new List <String>();
+nameList.add('Max');
+nameList.add('Simon');
+nameList.add('Kübra');
+nameList.add('Jennifer');
+nameList.add('Murat');
+nameList.add('Doğan');
+nameList.add('Fatih');
+testName.greetingAll(nameList);
+system.debug('**********************');
+testName.greetingAllButLast(nameList);
+system.debug('**********************');
+testName.greetingToMax(nameList);
