@@ -1,4 +1,5 @@
 Decimal score = math.random()*100;
+System.debug(score);
 Integer studentScore = Integer.valueOf(score);
 System.debug(StudentScore);
 if (StudentScore >=90){
@@ -12,4 +13,4 @@ if (StudentScore >=90){
 } else if (StudentScore >=50){
     System.debug('E');
 } else { System.debug('F');
-}
+}   
