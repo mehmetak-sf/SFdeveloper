@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>C_Layout_1</fullName>
+    <fields>Name</fields>
+    <fields>first_Oppo__c</fields>
+    <fields>NumberOfEmployees</fields>
+    <fields>ETH_Wallet__c</fields>
+    <fields>Max_Oppo__c</fields>
+    <fields>Phone</fields>
+    <fields>YearStarted</fields>
+    <fields>test_1_Autonumber__c</fields>
+    <label>C_Layout-1</label>
+</CompactLayout>

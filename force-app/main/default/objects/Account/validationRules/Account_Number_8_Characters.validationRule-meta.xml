@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Account_Number_8_Characters</fullName>
+    <active>false</active>
+    <description>...</description>
+    <errorConditionFormula>LEN( AccountNumber )   &lt;&gt;  8</errorConditionFormula>
+    <errorDisplayField>AccountNumber</errorDisplayField>
+    <errorMessage>lütfen 8 karakterli bir numara giriniz!</errorMessage>
+</ValidationRule>
